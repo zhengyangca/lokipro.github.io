@@ -3700,7 +3700,7 @@ h4 label {
 	width: 100%;
 	height: auto;
 	float: left;
-	background: #fff;
+	background: #2e2e2e;
 }
 .footer-area .upper-area {
 	width: 100%;
@@ -3712,11 +3712,11 @@ h4 label {
 }
 .footer-area h5 {
 	margin: 0 0 20px;
-	color: #010101;
+	color: #fff;
 	font-weight:500;
 }
 .footer-area p {
-	color: #666;
+	color: #fff;
 	font-weight:400;
 	line-height: 24px;
 	font-size: 14px;
@@ -3726,7 +3726,7 @@ h4 label {
 	margin: 0 0 20px;
 }
 .footer-area a {
-	color: #666;
+	color: #fff;
 }
 .footer-area a:hover {
 	color: #faac3a;
@@ -3835,7 +3835,7 @@ h4 label {
 	display: block;
 	font-size: 14px;
 	line-height: 24px;
-	color: #666;
+	color: #fff;
 }
 .footer-area .bottom-area {
 	width: 100%;
